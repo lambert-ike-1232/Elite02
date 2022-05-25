@@ -1,0 +1,15 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 2em;
+  color: rgb(255, 255, 255);
+  background-color: rgb(16, 9, 81);
+}
+
+h1 {
+  font-style: italic;
+  color: #e40f40;
+  background-color: aliceblue;
+}
+
